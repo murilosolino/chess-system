@@ -12,8 +12,6 @@
 * [Instalação e Uso](#instalação-e-uso)
 * [Estrutura do Projeto](#estrutura-do-projeto)
 * [Como Jogar](#como-jogar)
-* [Contribuição](#contribuição)
-* [Licença](#licença)
 
 ---
 
